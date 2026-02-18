@@ -1,0 +1,16 @@
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_003.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_003.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_004.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_004.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_005.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_005.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_009.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_009.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_010.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_010.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_011.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_011.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_014.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_014.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_017.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_017.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_018.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_018.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_019.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_019.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_020.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_020.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_022.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_022.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_023.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_023.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_026.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_026.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_029.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_029.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_030.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_030.nii.gz

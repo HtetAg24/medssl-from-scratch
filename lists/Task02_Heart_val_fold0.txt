@@ -1,0 +1,4 @@
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_007.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_007.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_016.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_016.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_021.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_021.nii.gz
+/home/htetaung/data/MSD/Task02_Heart/imagesTr/la_024.nii.gz,/home/htetaung/data/MSD/Task02_Heart/labelsTr/la_024.nii.gz

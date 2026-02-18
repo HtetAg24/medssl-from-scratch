@@ -1,0 +1,9 @@
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_10.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_10.nii.gz
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_13.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_13.nii.gz
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_14.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_14.nii.gz
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_17.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_17.nii.gz
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_31.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_31.nii.gz
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_33.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_33.nii.gz
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_44.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_44.nii.gz
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_47.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_47.nii.gz
+/home/htetaung/data/MSD/Task09_Spleen/imagesTr/spleen_56.nii.gz,/home/htetaung/data/MSD/Task09_Spleen/labelsTr/spleen_56.nii.gz

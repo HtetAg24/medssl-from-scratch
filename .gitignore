@@ -1,0 +1,23 @@
+# ---- huge training artifacts ----
+runs/
+runs_*/
+**/runs/
+wandb/
+lightning_logs/
+mlruns/
+tensorboard/
+
+# ---- checkpoints/weights ----
+checkpoints/
+weights/
+**/*.pt
+**/*.pth
+**/*.ckpt
+
+# ---- windows Zone.Identifier files (safe to ignore) ----
+*:Zone.Identifier
+
+# ---- misc ----
+__pycache__/
+.ipynb_checkpoints/
+*.log

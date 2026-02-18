@@ -1,0 +1,2 @@
+# image,label
+/path/to/Task02_Heart/imagesTr/case_0000.nii.gz,/path/to/Task02_Heart/labelsTr/case_0000.nii.gz
